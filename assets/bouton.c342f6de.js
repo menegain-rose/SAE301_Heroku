@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,g as r}from"./index.3064bfc5.js";const s={},a={class:"bg-MediumGray font-raleway font-normal text-lg py-1 px-10 rounded-xs"};function c(o,l){return t(),n("button",a,[r(o.$slots,"default")])}const d=e(s,[["render",c]]);export{d as B};
